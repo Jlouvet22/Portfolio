@@ -1,0 +1,69 @@
+/* exo1 */
+.exo1 {
+  height: 200px;
+  width: 200px;
+  margin-top: 5px;
+}
+.a {
+  background-image: url("../img/background1.png");
+  background-repeat: repeat;
+}
+.b {
+  background-image: url("../img/background2.png");
+  background-size: cover;
+  background-position: center;
+}
+.c {
+  background-image: url("../img/background3.png");
+  background-position: bottom right;
+  background-size: cover;
+}
+/* Exo2 */
+.google {
+  height: 200px;
+}
+/* Exo 3 */
+td {
+  height: 100px;
+  width: 100px;
+}
+.black {
+  background-color: black;
+  color: white;
+}
+/* Exo 4 */
+.button1:hover {
+  background-color: blue;
+  color: white;
+}
+.button2:active {
+  background-color: blue;
+  color: white;
+}
+.button3:hover {
+  background-color: skyblue;
+  transition: background-color 4s;
+}
+.button3:active {
+  background-color: darkblue;
+}
+/* Exo 5 */
+.chucknorris {
+  background-image: url("../img/chucknorris.jpg");
+  background-repeat: repeat;
+  background-attachment: fixed;
+}
+#end {
+  background-color: white;
+  opacity: 0.5;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50vh;
+  transform: translateY(-50%);
+  width: 100px;
+}
+ul {
+  list-style-type: none;
+  text-align: center;
+}

@@ -1,0 +1,53 @@
+h1 {
+  color: red;
+  text-transform: uppercase;
+}
+h3 {
+  color: blue;
+}
+li {
+  list-style-type: square;
+  color: white;
+}
+body {
+  background: linear-gradient(black, yellow);
+}
+.lol {
+  height: 400px;
+  width: 600px;
+  background: radial-gradient(skyblue, darkblue);
+  box-shadow: 5px 5px 10px black;
+}
+table {
+border: 2px dotted beige;
+border-collapse: collapse;
+text-align: left;
+}
+th {
+  background-color: #1FA055;
+  color: white;
+  font-weight: bold;
+}
+tr {
+  border-bottom: 2px solid beige;
+  font-size: 10px;
+}
+.mama {
+  height: 200px;
+  width: 200px;
+  border: 1px solid black;
+  margin-bottom: 2px;
+  margin-top: 15px;
+}
+.div1 {
+  border-radius: 50px;
+}
+.div2 {
+  border-radius: 50%;
+}
+.div3 {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 6%;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+}
